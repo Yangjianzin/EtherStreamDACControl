@@ -1,0 +1,16 @@
+C:\Users\Sam\Desktop\MCU_TCP\MCU_TCP\bin\Debug\MCU_TCP.exe
+C:\Users\Sam\Desktop\MCU_TCP\MCU_TCP\bin\Debug\MCU_TCP.pdb
+C:\Users\Sam\Desktop\MCU_TCP\MCU_TCP\obj\Debug\MCU_TCP.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\MCU_TCP\MCU_TCP\obj\Debug\MCU_TCP.Form1.resources
+C:\Users\Sam\Desktop\MCU_TCP\MCU_TCP\obj\Debug\MCU_TCP.Properties.Resources.resources
+C:\Users\Sam\Desktop\MCU_TCP\MCU_TCP\obj\Debug\MCU_TCP.csproj.GenerateResource.Cache
+C:\Users\Sam\Desktop\MCU_TCP\MCU_TCP\obj\Debug\MCU_TCP.exe
+C:\Users\Sam\Desktop\MCU_TCP\MCU_TCP\obj\Debug\MCU_TCP.pdb
+C:\Users\Sam\Desktop\MCU學習\MCU_TCP\MCU_TCP\obj\Debug\MCU_TCP.exe
+C:\Users\Sam\Desktop\MCU學習\MCU_TCP\MCU_TCP\obj\Debug\MCU_TCP.pdb
+C:\Users\Sam\Desktop\MCU學習\MCU_TCP\MCU_TCP\bin\Debug\MCU_TCP.exe
+C:\Users\Sam\Desktop\MCU學習\MCU_TCP\MCU_TCP\bin\Debug\MCU_TCP.pdb
+C:\Users\Sam\Desktop\MCU學習\MCU_TCP\MCU_TCP\obj\Debug\MCU_TCP.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\MCU學習\MCU_TCP\MCU_TCP\obj\Debug\MCU_TCP.Form1.resources
+C:\Users\Sam\Desktop\MCU學習\MCU_TCP\MCU_TCP\obj\Debug\MCU_TCP.Properties.Resources.resources
+C:\Users\Sam\Desktop\MCU學習\MCU_TCP\MCU_TCP\obj\Debug\MCU_TCP.csproj.GenerateResource.Cache
