@@ -14,7 +14,10 @@
 ### MCP4725 x2
 
 ## 使用技術
-### C# C++ Mbed OS TCP/IP
+### C#
+### C++
+### Mbed OS
+### TCP/IP
 
 ## 測試影片
 https://youtu.be/vV351VZbEFE
