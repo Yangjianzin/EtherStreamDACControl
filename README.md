@@ -20,4 +20,5 @@
 #### TCP/IP
 
 ## 測試影片
-https://youtu.be/vV351VZbEFE
+https://github.com/Yangjianzin/EtherStreamDACControl/assets/22924622/40e0e514-e5bb-49ad-8382-2a793dc8a378
+
